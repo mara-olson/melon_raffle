@@ -4,3 +4,5 @@
 
 # Hint: remember to import any functions you need from
 # other files or libraries
+import customers
+import random 
